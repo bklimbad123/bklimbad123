@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I am Limbad Bhargav 
 
+### A software Developer | MCA
+
+### Technologys
+
+- Python
+- SQL
+- DSA
+- Linux
+- Dajngo
+- Flask
+
+### Linkdin
+- https://www.linkedin.com/in/bhargavlimbad/
 <!--
 **bklimbad123/bklimbad123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
