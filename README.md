@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Limbad Bhargav 
 
-### A software Developer | MCA
+### software Developer | MCA
 
 ### Technologys
 
